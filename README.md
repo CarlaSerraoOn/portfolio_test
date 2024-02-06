@@ -19,7 +19,7 @@ Olá! Eu sou Carla Serrão, uma entusiasta de desenvolvimento frontend e testes 
 
 2. **Gift cards de personagens utilizando React.js:**
    - [Código no GitHub](https://github.com/CarlaSerraoOn/react-ecommerce](https://github.com/CarlaSerraoOn/ocean-backend-novembro-2023))
-   - [Visualizar ao Vivo](https://carlaserraoon.github.io/react-ecommerce/](https://ocean-jornada-frontend-novembro-2023-dylg.onrender.com/))
+   - [Visualizar ao Vivo](https://ocean-jornada-frontend-novembro-2023-dylg.onrender.com/)
 
 
 ### **Educação:**
